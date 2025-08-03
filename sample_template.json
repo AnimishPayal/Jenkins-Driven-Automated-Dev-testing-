@@ -1,0 +1,27 @@
+{
+    "Event": {
+      "specversion": "1.0.2",
+      "type": "com.oracle.mos.fm.status.file.ready",
+      "source": "com.oracle.cloudfm.lcm.status",
+      "subject": "4-XXXXXXXXXX",
+      "id": "AUTO_ID",
+      "time": "AUTO_TIMESTAMP",
+      "comoraclesrproduct": "Q14156",
+      "comoraclesrcat": "Q14156_0_INSTANCE_MAINTENANCE",
+      "data": {
+        "data": {
+          "collectionId": 1271324,
+          "contextId": "4-XXXXXXXXXX",
+          "contextType": "SR",
+          "filename": "RDA_opatch_only_linux.zip"
+        }
+      }
+    },
+    "ServiceRequest": {
+      "Headers": {
+        "SrNumber": "4-XXXXXXXXXX",
+        "Title": "DEFAULT_TITLE"
+      }
+    },
+    "FilePaths": []
+  }
