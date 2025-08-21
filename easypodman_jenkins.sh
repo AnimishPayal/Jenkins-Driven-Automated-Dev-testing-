@@ -2,8 +2,8 @@
 
 __VERSION__='25.6.0.1.1'
 __UPDATED__='2025.06.11'
-__AUTHOR__='Ian Reid'
-__MAINTAINER__='Ian Reid, Gustavo Cavallin'
+__AUTHOR__=''
+__MAINTAINER__=''
 
   
 main() {
